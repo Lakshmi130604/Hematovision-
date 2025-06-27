@@ -22,8 +22,5 @@ HematoVision is a deep learning project that uses transfer learning to classify 
 3. Run `app.py` using Flask.
 4. Open browser and test with blood cell images.
 
-## Contributors
-- Nallari Lakshmi (SmartInternz - APSCHE Internship)
-
-## License
-This project is licensed under the MIT License.
+submitted by: Lakshmi Prasanna 
+🔗 GitHub link:https://github.com/Lakshmi130604/Hematovision-.git
