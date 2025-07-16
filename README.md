@@ -1,26 +1,31 @@
-# HematoVision: Advanced Blood Cell Classification
+# HematoVision: Advanced Blood Cell Classification Using Transfer Learning
 
-## Project Description
-HematoVision is a deep learning project that uses transfer learning to classify blood cells into four types: eosinophils, lymphocytes, monocytes, and neutrophils. It helps in medical diagnosis by automating cell classification.
+## 📌 Project Description
+This project aims to automate the classification of blood cells using deep learning. Transfer learning is applied to reduce training time and improve performance.
 
-## Tools & Technologies
-- Python
-- TensorFlow / Keras
-- Transfer Learning
-- Flask (for web app)
-- Google Colab / Jupyter Notebook
+## 📁 Dataset
+Contains labeled images of:
+- Neutrophil
+- Eosinophil
+- Monocyte
+- Lymphocyte
 
-## Project Structure
-- **Demo/** – Contains video/screenshots of the project in action.
-- **Documentation/** – Includes project report and supporting documents.
-- **app.py** – Flask web application script.
-- **model.h5** – Trained deep learning model.
+## ⚙️ Technologies Used
+- Python  
+- TensorFlow / Keras  
+- NumPy, Matplotlib  
+- Transfer Learning (MobileNetV2)
 
-## How to Run
-1. Clone the repo.
-2. Install dependencies.
-3. Run `app.py` using Flask.
-4. Open browser and test with blood cell images.
+## 🚀 How to Run
+1. Clone this repo  
+2. Install requirements: `pip install -r requirements.txt`  
+3. Run: `python main.py`
+
+## 📈 Results
+- Accuracy: ~96%  
+- High precision & recall  
+- Confusion matrix indicates strong classification ability
+
 
 submitted by: Lakshmi Prasanna 
 🔗 GitHub link:https://github.com/Lakshmi130604/Hematovision-.git
